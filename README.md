@@ -22,7 +22,7 @@ Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.co
 1. Clone the repository:
 
 
-git clone https://github.com/g123ritz/nytimesarticles.git
+git clone [https://github.com/g123ritz/nytimesarticles.git](https://github.com/RitikaGuptaaiv/nyTimes)
 cd nyt-most-popular-articles
 
 ### Installation
